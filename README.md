@@ -1,2 +1,3 @@
-a interactive story game with basic for now 
+a interactive story game with basic things for now 
+
 will continue updating it 
